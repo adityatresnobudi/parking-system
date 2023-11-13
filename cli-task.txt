@@ -1,0 +1,48 @@
+Parking Lot
+1. Setup
+2. Park
+3. Un Park
+4. Exit
+
+input menu: 1
+input parking lot capacities: 1,2,3
+
+-------------------
+Parking Lot
+1. Setup
+2. Park
+3. Un Park
+4. Exit
+
+input menu: 2
+input plate number: B123M
+
+Car parked with ticket id #5678
+Parking lot is full! => follow error message
+Car is parked! => follow err message
+
+-------------------
+
+Parking Lot
+1. Setup
+2. Park
+3. Un Park
+4. Exit
+
+input menu: 3
+input ticket id: #5678
+
+Car B123M successfully unparked!
+// print error
+
+-------------------
+
+bonus menu: parking lot status => print mobil yg ada di lots dan sisa capacity
+
+Parking Lot Status:
+Lot #1: 4 space left
+#5678 B123M
+#3456 B898M
+
+Lot #2: 0 space left
+#5678 B123M
